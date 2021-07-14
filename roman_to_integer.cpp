@@ -11,4 +11,4 @@ public:
         n+=m[s[i]];
         return n;
     }
-};
+};  
